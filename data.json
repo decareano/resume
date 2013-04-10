@@ -49,7 +49,7 @@
           "name": "Freelance web development",
           "date": ["February 2013", "present"],
           "details": [
-            "303 Velocity &mdash; Built a script Ruby and Mechanize that scrapes all Craigslist mobile software development job postings in the world and compiles them into a spreadsheet.",
+            "303 Velocity &mdash; Built a script with Ruby and Mechanize that scrapes all Craigslist mobile software development job postings in the world and compiles them into a spreadsheet.",
             "Pixabit &mdash; Worked on Dark Age Wars' mature jQuery-heavy front-end to optimize code, fix bugs, implement features and build new parts of the interface.",
             "Nuflection &mdash; Created a Ruby on Rails-based web app with a Test::Unit test suite featuring a custom member registration system and scripted HTML5 Video."
           ]
