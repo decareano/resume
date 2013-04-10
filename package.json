@@ -2,7 +2,7 @@
   "name": "resume",
   "author": "Artur Ostrega <artur@ostrega.me>",
   "dependencies": {
-    "eco": "1.1.x",
+    "handlebars": "1.0.x",
     "phantom": "1.9.x"
   }
 }
