@@ -58,7 +58,7 @@
           "date": ["August 2012", "January 2013"],
           "details": [
             "Tin Bull &mdash; Anonymous discussion board inspired by reddit and 2channel. Features an innovative throwaway pseudonymity system and a responsive design. Made with Ruby on Rails and has an Rspec/Capybara test suite. http://tinbull.com",
-            "Piki &mdash; Cloud-based personal wiki application designed to be as comfortable and intuitive as possible. Back-end made with Python, Flask and Elixir; dynamic front-end made with CoffeeScript, HTML5 ContentEditable, jQuery and rangy. http://piki.heroku.com"
+            "Piki &mdash; Cloud-based personal wiki application designed to be as comfortable and intuitive as possible. Back-end made with Python, Flask and Elixir; dynamic front-end and wiki editor made with CoffeeScript, HTML5 ContentEditable, jQuery and rangy. http://piki.heroku.com"
           ]
         }
       ]
