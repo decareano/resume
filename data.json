@@ -9,10 +9,10 @@
   ],
   "sections": [
     {
-      "name": "Skills",
-      "content": [
+      "section": "Skills",
+      "subsections": [
         {
-          "name": "Software development",
+          "subsection": "Software development",
           "details": [
             "10 years of hobbyist experience before starting professional career.",
             "Strongly value pragmatic approach to problems, solid and extensible architecture, behavior/test-driven development, security by design, clean code, DRY code, KISS, agile software development, convention over configuration, decentralized version control (Git, Mercurial) and open source software stacks.",
@@ -20,14 +20,14 @@
             "Some experience with Go, Lua, Lisp, C, C++, ActionScript and PHP."
           ]
         }, {
-          "name": "Front-end web development",
+          "subsection": "Front-end web development",
           "details": [
             "Strict XHTML and HTML5 (semantic web, audio, video, contenteditable, canvas, WebSocket, web storage, geolocation, native drag and drop, file API)",
             "CSS3 (responsive design, Sass, LESS, Twitter Bootstrap)",
             "JavaScript (<em>The Good Parts</em>, progressive enhancement, AJAX, asm.js, CoffeeScript, jQuery, AngularJS, Ember.js, Modernizr, Firebase, Underscore.js, rangy, Paper.js, Jasmine, QUnit)"
           ]
         }, {
-          "name": "Back-end web development",
+          "subsection": "Back-end web development",
           "details": [
             "Ruby (Ruby on Rails, Sinatra, Rspec, MiniTest, Test::Unit, Capybara, Guard, Factory Girl, RubyGems)",
             "JavaScript (Node.js, npm, CoffeeScript, Socket.IO, Jasmine, QUnit, npm)",
@@ -35,7 +35,7 @@
             "Heroku, OAuth, RESTful JSON/XML API design"
           ]
         }, {
-          "name": "Design",
+          "subsection": "Design",
           "details": [
             "Fundamental visual design principles, user experience design",
             "Perfectionist attention to detail."
@@ -43,19 +43,19 @@
         }
       ]
     }, {
-      "name": "Experience",
-      "content": [
+      "section": "Experience",
+      "subsections": [
         {
-          "name": "Freelance web development",
-          "date": ["February 2013", "present"],
+          "subsection": "Freelance web development",
+          "date": "February 2013 &mdash; present",
           "details": [
             "303 Velocity &mdash; Built a script with Ruby and Mechanize that scrapes all Craigslist mobile software development job postings in the world and compiles them into a spreadsheet.",
             "Pixabit &mdash; Worked on Dark Age Wars' mature jQuery-heavy front-end to optimize code, fix bugs, implement features and build new parts of the interface.",
             "Nuflection &mdash; Created a Ruby on Rails-based web app with a Test::Unit test suite featuring a custom member registration system and scripted HTML5 Video."
           ]
         }, {
-          "name": "Entrepreneurial web development",
-          "date": ["August 2012", "January 2013"],
+          "subsection": "Entrepreneurial web development",
+          "date": "August 2012 &mdash; January 2013",
           "details": [
             "Tin Bull &mdash; Anonymous discussion board inspired by reddit and 2channel. Features an innovative throwaway pseudonymity system and a responsive design. Made with Ruby on Rails and has an Rspec/Capybara test suite. http://tinbull.com",
             "Piki &mdash; Cloud-based personal wiki application designed to be as comfortable and intuitive as possible. Back-end made with Python, Flask and Elixir; dynamic front-end and wiki editor made with CoffeeScript, HTML5 ContentEditable, jQuery and rangy. http://piki.heroku.com"
@@ -63,11 +63,11 @@
         }
       ]
     }, {
-      "name": "Education",
-      "content": [
+      "section": "Education",
+      "subsections": [
         {
-          "name": "Triton College",
-          "date": [2007, 2008]
+          "subsection": "Triton College",
+          "date": "2007 &mdash; 2008"
         }
       ]
     }
