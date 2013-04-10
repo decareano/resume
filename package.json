@@ -1,0 +1,8 @@
+{
+  "name": "resume",
+  "author": "Artur Ostrega <artur@ostrega.me>",
+  "dependencies": {
+    "ejs": "0.8.x",
+    "phantom": "1.9.x"
+  }
+}
