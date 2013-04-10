@@ -7,4 +7,6 @@ var data = require('./data.json');
 var templateSource = fs.readFileSync('template.html.handlebars', 'utf-8');
 
 var template = handlebars.compile(templateSource);
-console.log(template(data));
+var resume = template(data);
+fs.writeFileSync('resume.html', resume);
+console.log(resume);

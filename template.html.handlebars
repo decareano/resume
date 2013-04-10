@@ -9,18 +9,18 @@
   <h2 id="profession">{{profession}}</h2>
   <ul id="contact">
   {{#each contact}}
-    <li>{{this}}</li>
+    <li>{{{this}}}</li>
   {{/each}}
   </ul>
   {{#each sections}}
   <div class="section">
     <h1>{{section}}</h1>
     {{#each subsections}}
-      <h2>{{subsection}}{{#if date}}<span>{{date}}</span>{{/if}}</h2>
+      <h2>{{subsection}}{{#if date}}<span>{{{date}}}</span>{{/if}}</h2>
       {{#if details}}
       <ul>
       {{#each details}}
-        <li>{{this}}</li>
+        <li>{{{this}}}</li>
       {{/each}}
       </ul>
       {{/if}}

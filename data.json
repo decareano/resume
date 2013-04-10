@@ -47,18 +47,18 @@
       "subsections": [
         {
           "subsection": "Freelance web development",
-          "date": "February 2013 &mdash; present",
+          "date": "February 2013 &ndash; present",
           "details": [
-            "303 Velocity &mdash; Built a script with Ruby and Mechanize that scrapes all Craigslist mobile software development job postings in the world and compiles them into a spreadsheet.",
-            "Pixabit &mdash; Worked on Dark Age Wars' mature jQuery-heavy front-end to optimize code, fix bugs, implement features and build new parts of the interface.",
-            "Nuflection &mdash; Created a Ruby on Rails-based web app with a Test::Unit test suite featuring a custom member registration system and scripted HTML5 Video."
+            "303 Velocity &ndash; Built a script with Ruby and Mechanize that scrapes all Craigslist mobile software development job postings in the world and compiles them into a spreadsheet.",
+            "Pixabit &ndash; Worked on Dark Age Wars' mature jQuery-heavy front-end to optimize code, fix bugs, implement features and build new parts of the interface.",
+            "Nuflection &ndash; Created a Ruby on Rails-based web app with a Test::Unit test suite featuring a custom member registration system and scripted HTML5 Video."
           ]
         }, {
           "subsection": "Entrepreneurial web development",
-          "date": "August 2012 &mdash; January 2013",
+          "date": "August 2012 &ndash; January 2013",
           "details": [
-            "Tin Bull &mdash; Anonymous discussion board inspired by reddit and 2channel. Features an innovative throwaway pseudonymity system and a responsive design. Made with Ruby on Rails and has an Rspec/Capybara test suite. http://tinbull.com",
-            "Piki &mdash; Cloud-based personal wiki application designed to be as comfortable and intuitive as possible. Back-end made with Python, Flask and Elixir; dynamic front-end and wiki editor made with CoffeeScript, HTML5 ContentEditable, jQuery and rangy. http://piki.heroku.com"
+            "Tin Bull &ndash; Anonymous discussion board inspired by reddit and 2channel. Features an innovative throwaway pseudonymity system and a responsive design. Made with Ruby on Rails and has an Rspec/Capybara test suite. http://tinbull.com",
+            "Piki &ndash; Cloud-based personal wiki application designed to be as comfortable and intuitive as possible. Back-end made with Python, Flask and Elixir; dynamic front-end and wiki editor made with CoffeeScript, HTML5 ContentEditable, jQuery and rangy. http://piki.heroku.com"
           ]
         }
       ]
@@ -67,7 +67,7 @@
       "subsections": [
         {
           "subsection": "Triton College",
-          "date": "2007 &mdash; 2008"
+          "date": "2007 &ndash; 2008"
         }
       ]
     }
