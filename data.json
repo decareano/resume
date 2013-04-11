@@ -14,7 +14,7 @@
         {
           "subsection": "Software development",
           "details": [
-            "Strongly value pragmatic approach to problems, solid and extensible architecture, behavior/test-driven development, security by design, clean code, DRY code, KISS, agile software development, convention over configuration, decentralized version control (Git, Mercurial) and open source software stacks.",
+            "Strongly value pragmatic approach to problems, solid and extensible architecture, behavior/test-driven development, security by design, clean code, DRY code, KISS, convention over configuration, agile software development, decentralized version control (Git, Mercurial) and open source software stacks.",
             "Proficient with JavaScript, CoffeeScript, Ruby, Python, the UNIX shell and Vim.",
             "Some experience with Go, Lua, Lisp, C, C++, ActionScript and PHP.",
             "10 years of hobbyist experience before starting professional career."
@@ -37,8 +37,7 @@
         }, {
           "subsection": "Design",
           "details": [
-            "Fundamental visual design principles",
-            "User experience design",
+            "Fundamental visual design principles, user experience design",
             "Perfectionist attention to detail."
           ]
         }
