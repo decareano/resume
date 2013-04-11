@@ -9,4 +9,4 @@ var templateSource = fs.readFileSync('template.html.handlebars', 'utf-8');
 var template = handlebars.compile(templateSource);
 var resume = template(data);
 fs.writeFileSync('resume.html', resume);
-console.log(resume);
+console.log("Built resume to resume.html.");
