@@ -1,4 +1,4 @@
-#!/usr/bin/env phantomjs
+#!./node_modules/phantomjs/bin/phantomjs
 // build.js - Build PDF from a Handlebars and JSON file.
 // Public domain
 
