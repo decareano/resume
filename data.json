@@ -3,7 +3,7 @@
   "profession": "Full-stack web developer",
   "contact": [
     "artur@ostrega.me",
-    "773/934-5970",
+    "773-934-5970",
     "5303 N Delphia, Chicago, IL 60656",
     "http://artur.ostrega.me"
   ],
@@ -29,9 +29,9 @@
         }, {
           "subsection": "Back-end web development",
           "details": [
-            "Ruby (Ruby on Rails, Sinatra, Rspec, MiniTest, Test::Unit, Capybara, Guard, Factory Girl, RubyGems)",
+            "Ruby (Ruby on Rails, Sinatra, Rspec, MiniTest, Test::Unit, Capybara, Guard, Factory Girl, RubyGems, RVM)",
             "JavaScript (Node.js, CoffeeScript, Socket.IO, Jasmine, QUnit, npm)",
-            "Python (Flask, SQLAlchemy, Elixir, unittest, pip)",
+            "Python (Flask, SQLAlchemy, Elixir, unittest, pip, virtualenv)",
             "Heroku, OAuth, RESTful JSON/XML API design"
           ]
         }, {
