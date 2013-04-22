@@ -9,10 +9,10 @@
   ],
   "sections": [
     {
-      "section": "Skills",
+      "name": "Skills",
       "subsections": [
         {
-          "subsection": "Software development",
+          "name": "Software development",
           "details": [
             "Strongly value pragmatic approach to problems, solid and extensible architecture, behavior/test-driven development, security by design, clean code, DRY code, KISS, convention over configuration, agile software development, decentralized version control (Git, Mercurial) and open source software stacks.",
             "Proficient with JavaScript, CoffeeScript, Ruby, Python, the UNIX shell and Vim.",
@@ -20,14 +20,14 @@
             "10 years of hobbyist experience before starting professional career."
           ]
         }, {
-          "subsection": "Front-end web development",
+          "name": "Front-end web development",
           "details": [
             "Strict XHTML and HTML5 (semantic web, audio, video, contenteditable, canvas, WebSocket, web storage, geolocation, native drag and drop, file API)",
             "CSS3 (responsive design, Sass, LESS, Twitter Bootstrap)",
             "JavaScript (<em>The Good Parts</em>, progressive enhancement, AJAX, asm.js, CoffeeScript, jQuery, AngularJS, Ember.js, Modernizr, Firebase, Underscore.js, Paper.js, Jasmine, QUnit)"
           ]
         }, {
-          "subsection": "Back-end web development",
+          "name": "Back-end web development",
           "details": [
             "Ruby (Ruby on Rails, Sinatra, Rspec, MiniTest, Test::Unit, Capybara, Guard, Factory Girl, RubyGems, RVM)",
             "JavaScript (Node.js, CoffeeScript, Socket.IO, Jasmine, QUnit, npm)",
@@ -35,7 +35,7 @@
             "Heroku, OAuth, RESTful JSON/XML API design"
           ]
         }, {
-          "subsection": "Design",
+          "name": "Design",
           "details": [
             "Fundamental visual design principles, user experience design, typography",
             "Perfectionist attention to detail."
@@ -43,10 +43,10 @@
         }
       ]
     }, {
-      "section": "Experience",
+      "name": "Experience",
       "subsections": [
         {
-          "subsection": "Freelance web development",
+          "name": "Freelance web development",
           "date": "February 2013 &ndash; present",
           "details": [
             "<strong>303 Velocity</strong> &ndash; Built a script with Ruby and Mechanize that scrapes all Craigslist mobile software development job postings in the world and compiles them into a spreadsheet.",
@@ -54,7 +54,7 @@
             "<strong>Nuflection</strong> &ndash; Created a Ruby on Rails-based web app with a Test::Unit test suite featuring a custom member registration system and scripted HTML5 Video."
           ]
         }, {
-          "subsection": "Entrepreneurial web development",
+          "name": "Entrepreneurial web development",
           "date": "August 2012 &ndash; January 2013",
           "details": [
             "<strong>Tin Bull</strong> &ndash; Anonymous discussion board inspired by reddit and 2channel. Features an innovative throwaway pseudonymity system and a responsive design. Made with Ruby on Rails and has an Rspec/Capybara test suite. http://tinbull.com",
@@ -63,10 +63,10 @@
         }
       ]
     }, {
-      "section": "Education",
+      "name": "Education",
       "subsections": [
         {
-          "subsection": "Triton College",
+          "name": "Triton College",
           "date": "2007 &ndash; 2008"
         }
       ]

@@ -17,10 +17,10 @@
   </header>
   {{#each sections}}
   <div class="section">
-    <h1>{{section}}</h1>
+    <h1>{{name}}</h1>
     {{#each subsections}}
       <div class="subsection">
-        <h2>{{subsection}}{{#if date}}<span>{{{date}}}</span>{{/if}}</h2>
+        <h2>{{name}}{{#if date}}<span>{{{date}}}</span>{{/if}}</h2>
         {{#if details}}
         <ul class="details">
         {{#each details}}
