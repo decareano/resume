@@ -47,10 +47,10 @@
       "subsections": [
         {
           "name": "Freelance web development",
-          "date": "February 2013 &ndash; present",
+          "date": "February 2013 &ndash; April 2013",
           "details": [
+            "<strong>Pixabit</strong> &ndash; Worked on Dark Age Wars' mature jQuery front-end to optimize code, fix bugs, implement features and build new parts of the interface.",
             "<strong>303 Velocity</strong> &ndash; Built a script with Ruby and Mechanize that scrapes all Craigslist mobile software development job postings in the world and compiles them into a spreadsheet.",
-            "<strong>Pixabit</strong> &ndash; Worked on Dark Age Wars' mature jQuery-heavy front-end to optimize code, fix bugs, implement features and build new parts of the interface.",
             "<strong>Nuflection</strong> &ndash; Created a Ruby on Rails-based web app with a Test::Unit test suite featuring a custom member registration system and scripted HTML5 Video."
           ]
         }, {
