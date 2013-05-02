@@ -46,15 +46,14 @@
       "name": "Experience",
       "subsections": [
         {
-          "name": "Freelance web development",
-          "date": "February 2013 &ndash; April 2013",
-          "details": [
-            "<strong>Pixabit</strong> &ndash; Worked on Dark Age Wars' mature jQuery front-end to optimize code, fix bugs, implement features and build new parts of the interface.",
-            "<strong>303 Velocity</strong> &ndash; Built a script with Ruby and Mechanize that scrapes all Craigslist mobile software development job postings in the world and compiles them into a spreadsheet.",
-            "<strong>Nuflection</strong> &ndash; Created a Ruby on Rails-based web app with a Test::Unit test suite featuring a custom member registration system and scripted HTML5 Video."
-          ]
+          "name": "Andover College Prep",
+          "date": "April 2013 &ndash; present"
         }, {
-          "name": "Entrepreneurial web development",
+          "name": "Pixabit",
+          "date": "January 2013 &ndash; April 2013",
+          "details": ["Worked part-time on Dark Age Wars' mature jQuery front-end to optimize code, fix bugs, implement features and build new interface components."]
+        }, {
+          "name": "Self-employed web development",
           "date": "August 2012 &ndash; January 2013",
           "details": [
             "<strong>Tin Bull</strong> &ndash; Anonymous discussion board inspired by reddit and 2channel. Features an innovative throwaway pseudonymity system and a responsive design. Made with Ruby on Rails and has an Rspec/Capybara test suite. http://tinbull.com",
