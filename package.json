@@ -1,6 +1,6 @@
 {
   "name": "resume",
-  "author": "Artur Ostrega <artur@ostrega.me>",
+  "author": "Artur Ostrega <skoofoo@gmail.com>",
   "dependencies": {
     "phantomjs": "1.9.x",
     "handlebars": "1.0.x"

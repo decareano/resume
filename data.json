@@ -2,71 +2,64 @@
   "name": "Artur Ostrega",
   "profession": "Full-stack web developer",
   "contact": [
-    "artur@ostrega.me",
-    "773-934-5970",
-    "5303 N Delphia, Chicago, IL 60656",
-    "http://artur.ostrega.me"
+    "<u>skoofoo@gmail.com</u>",
+    "(773) 934-5970",
+    "2803 W Lawrence Ave, Chicago, IL 60625",
+    "<u>http://skofo.github.io</u>"
   ],
   "sections": [
     {
+      "name": "Experience",
+      "subsections": [
+        {
+          "name": "Andover Daskala",
+          "date": "April 2013 &ndash; August 2013",
+          "details": [
+            "Full-stack developer part of a small team building a responsive HTML5 student assessment platform.",
+            "Worked with Ruby on Rails for the back-end and Ember, Ember Data and Bootstrap for the front-end"
+          ]
+        }, {
+          "name": "Pixabit",
+          "date": "January 2013 &ndash; April 2013",
+          "details": [
+            "Worked remotely on Dark Age Wars' mature jQuery front-end to optimize code, fix bugs, implement features and build new interface components."
+            ]
+        }, {
+          "name": "Self-employed web development",
+          "date": "August 2012 &ndash; January 2013",
+          "details": [
+            "<strong>Tin Bull</strong> &ndash; Anonymous discussion board inspired by reddit and 2channel. Features an innovative throwaway pseudonymity system and a responsive design. Made with Ruby on Rails and has an Rspec/Capybara test suite. <u>http://tinbull.com</u>",
+            "<strong>Piki</strong> &ndash; Cloud-based personal wiki application designed to be as comfortable and intuitive as possible. Back-end made with Python, Flask and Elixir; dynamic front-end and wiki editor made with CoffeeScript, HTML5 ContentEditable, jQuery and rangy. <u>http://piki.heroku.com</u>"
+          ]
+        }
+      ]
+    }, {
       "name": "Skills",
       "subsections": [
         {
           "name": "Software development",
           "details": [
-            "Strongly value pragmatic approach to problems, solid and extensible architecture, behavior/test-driven development, security by design, clean code, DRY code, KISS, convention over configuration, agile software development, decentralized version control (Git, Mercurial) and open source software stacks.",
+            "Value pragmatic approach to problems, solid and extensible architecture, behavior/test-driven development, security by design, DRY clean code, KISS, convention over configuration, agile software development, decentralized version control (Git, Mercurial) and open source software stacks.",
             "Proficient with JavaScript, CoffeeScript, Ruby, Python, the UNIX shell and Vim.",
-            "Some experience with Go, Lua, Lisp, C, C++, ActionScript and PHP.",
+            "Some experience with Go, Lua, Scheme, C, C++, ActionScript and PHP.",
             "10 years of hobbyist experience before starting professional career."
-          ]
-        }, {
-          "name": "Front-end web development",
-          "details": [
-            "Strict XHTML and HTML5 (semantic web, audio, video, contenteditable, canvas, WebSocket, web storage, geolocation, native drag and drop, file API)",
-            "CSS3 (responsive design, Sass, LESS, Twitter Bootstrap)",
-            "JavaScript (<em>The Good Parts</em>, progressive enhancement, AJAX, asm.js, CoffeeScript, jQuery, AngularJS, Ember.js, Modernizr, Firebase, Underscore.js, Paper.js, Jasmine, QUnit)"
           ]
         }, {
           "name": "Back-end web development",
           "details": [
-            "Ruby (Ruby on Rails, Sinatra, Rspec, MiniTest, Test::Unit, Capybara, Guard, Factory Girl, RubyGems, RVM)",
-            "JavaScript (Node.js, CoffeeScript, Socket.IO, Jasmine, QUnit, npm)",
+            "Ruby (Ruby on Rails, Sinatra, Rspec, MiniTest, Test::Unit, Capybara, Shoulda, Guard, Spork, Factory Girl, RubyGems, RVM)",
+            "JavaScript (Meteor, Node.js, CoffeeScript, Socket.IO, Jasmine, QUnit, npm)",
             "Python (Flask, SQLAlchemy, Elixir, unittest, pip, virtualenv)",
-            "Heroku, OAuth, RESTful JSON/XML API design"
+            "Heroku, FTP, OAuth, RESTful JSON/XML API design, SQL"
           ]
         }, {
-          "name": "Design",
+          "name": "Front-end web development",
           "details": [
-            "Fundamental visual design principles, user experience design, typography",
-            "Perfectionist attention to detail."
+            "HTML5 (semantic web, audio, video, contenteditable, canvas, WebSocket, web storage, geolocation, native drag and drop, file API) and Strict XHTML",
+            "CSS3 (responsive design, Twitter Bootstrap, Sass, LESS, transitions)",
+            "JavaScript (<em>The Good Parts</em>, progressive enhancement, AJAX, asm.js, CoffeeScript, jQuery, Ember.js, AngularJS, Handlebars, Modernizr, Firebase, Underscore.js, Paper.js, Jasmine, QUnit)",
+            "Some experience with fundamental visual design principles, user experience design, and typography; perfectionist attention to detail."
           ]
-        }
-      ]
-    }, {
-      "name": "Experience",
-      "subsections": [
-        {
-          "name": "Andover College Prep",
-          "date": "April 2013 &ndash; present"
-        }, {
-          "name": "Pixabit",
-          "date": "January 2013 &ndash; April 2013",
-          "details": ["Worked part-time on Dark Age Wars' mature jQuery front-end to optimize code, fix bugs, implement features and build new interface components."]
-        }, {
-          "name": "Self-employed web development",
-          "date": "August 2012 &ndash; January 2013",
-          "details": [
-            "<strong>Tin Bull</strong> &ndash; Anonymous discussion board inspired by reddit and 2channel. Features an innovative throwaway pseudonymity system and a responsive design. Made with Ruby on Rails and has an Rspec/Capybara test suite. http://tinbull.com",
-            "<strong>Piki</strong> &ndash; Cloud-based personal wiki application designed to be as comfortable and intuitive as possible. Back-end made with Python, Flask and Elixir; dynamic front-end and wiki editor made with CoffeeScript, HTML5 ContentEditable, jQuery and rangy. http://piki.heroku.com"
-          ]
-        }
-      ]
-    }, {
-      "name": "Education",
-      "subsections": [
-        {
-          "name": "Triton College",
-          "date": "2007 &ndash; 2008"
         }
       ]
     }
