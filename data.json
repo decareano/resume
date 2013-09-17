@@ -67,7 +67,7 @@
           "name": "Back-end web development",
           "details": [
             "Ruby (Ruby on Rails, Sinatra, Rspec, MiniTest, Test::Unit, Capybara, Shoulda, Guard, Spork, Factory Girl, RubyGems, RVM)",
-            "JavaScript (CoffeeScript, Jasmine, QUnit, Meteor, Node.js, npm)",
+            "JavaScript (CoffeeScript, Jasmine, QUnit, Meteor, PhantomJS, Node.js, npm)",
             "Python (Flask, SQLAlchemy, Elixir, unittest, pip, virtualenv)",
             "Heroku, SQL, FTP, OAuth, RESTful JSON/XML API design"
           ]
