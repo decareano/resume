@@ -41,23 +41,22 @@
           "details": [
             "Value pragmatic approach to problems, solid and extensible architecture, behavior/test-driven development, security by design, DRY clean code, KISS, convention over configuration, agile software development, decentralized version control (Git, Mercurial) and open source software stacks.",
             "Proficient with JavaScript, CoffeeScript, Ruby, Python, the UNIX shell and Vim.",
-            "Some experience with Go, Lua, Scheme, C, C++, ActionScript and PHP.",
             "10 years of hobbyist experience before starting professional career."
           ]
         }, {
           "name": "Back-end web development",
           "details": [
             "Ruby (Ruby on Rails, Sinatra, Rspec, MiniTest, Test::Unit, Capybara, Shoulda, Guard, Spork, Factory Girl, RubyGems, RVM)",
-            "JavaScript (Meteor, Node.js, CoffeeScript, Socket.IO, Jasmine, QUnit, npm)",
+            "JavaScript (Meteor, Node.js, CoffeeScript, Jasmine, QUnit, npm)",
             "Python (Flask, SQLAlchemy, Elixir, unittest, pip, virtualenv)",
-            "Heroku, FTP, OAuth, RESTful JSON/XML API design, SQL"
+            "Heroku, SQL, FTP, OAuth, RESTful JSON/XML API design"
           ]
         }, {
           "name": "Front-end web development",
           "details": [
             "HTML5 (semantic web, audio, video, contenteditable, canvas, WebSocket, web storage, geolocation, native drag and drop, file API) and Strict XHTML",
-            "CSS3 (responsive design, Twitter Bootstrap, Sass, LESS, transitions)",
-            "JavaScript (<em>The Good Parts</em>, progressive enhancement, AJAX, asm.js, CoffeeScript, jQuery, Ember.js, AngularJS, Handlebars, Modernizr, Firebase, Underscore.js, Paper.js, Jasmine, QUnit)",
+            "CSS3 (responsive design, Twitter Bootstrap, Sass, LESS)",
+            "JavaScript (<em>The Good Parts</em>, progressive enhancement, AJAX, asm.js, CoffeeScript, jQuery, Ember.js, AngularJS, Handlebars, Modernizr, Underscore.js, Paper.js, Jasmine, QUnit)",
             "Some experience with fundamental visual design principles, user experience design, and typography; perfectionist attention to detail."
           ]
         }
