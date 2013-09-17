@@ -9,27 +9,47 @@
   ],
   "sections": [
     {
-      "name": "Experience",
+      "name": "Professional experience",
       "subsections": [
         {
           "name": "Andover Daskala",
           "date": "April 2013 &ndash; August 2013",
           "details": [
             "Full-stack developer part of a small team building a responsive HTML5 student assessment platform.",
-            "Worked with Ruby on Rails for the back-end and Ember, Ember Data and Bootstrap for the front-end."
+            "Worked with Ruby on Rails and Rspec for the backend and Ember, Bootstrap and QUnit for the frontend.",
+            "Created complex data management tools with changing requirements and set up automated testing."
           ]
         }, {
           "name": "Pixabit",
           "date": "January 2013 &ndash; April 2013",
           "details": [
-            "Worked remotely on Dark Age Wars' mature jQuery front-end to optimize code, fix bugs, implement features and build new interface components."
-            ]
-        }, {
-          "name": "Self-employed web development",
-          "date": "August 2012 &ndash; January 2013",
+            "Worked remotely on Dark Age Wars' mature jQuery frontend to optimize code, fix bugs, implement features and build new interface components."
+          ]
+        }
+      ]
+    }, {
+      "name": "Projects",
+      "subsections": [
+        {
+          "name": "Yeah",
           "details": [
-            "<strong>Tin Bull</strong> &ndash; Anonymous discussion board inspired by reddit and 2channel. Features an innovative throwaway pseudonymity system and a responsive design. Made with Ruby on Rails and has an Rspec/Capybara test suite. <u>http://tinbull.com</u>",
-            "<strong>Piki</strong> &ndash; Cloud-based personal wiki application designed to be as comfortable and intuitive as possible. Back-end made with Python, Flask and Elixir; dynamic front-end and wiki editor made with CoffeeScript, HTML5 ContentEditable, jQuery and rangy. <u>http://piki.heroku.com</u>"
+            "An opinionated Ruby video game framework.",
+            "Meant to bring modern software development ideas to the world of video games - prioritizing rapid development, code flexibility and developer happiness over raw performance.",
+            "<u>https://github.com/skofo/yeah</u>"
+          ]
+        }, {
+          "name": "Tin Bull",
+          "details": [
+            "Anonymous discussion board inspired by reddit and 2channel and made with Ruby on Rails.",
+            "Features an innovative throwaway pseudonymity system and a responsive design.",
+            "<u>http://tinbull.com</u>, <u>http://skofo.github.io/blog/tinbull-retrospective</u>"
+          ]
+        }, {
+          "name": "Piki",
+          "details": [
+            "Cloud-based personal wiki application designed to be as comfortable and intuitive as possible.",
+            "Backend made with Python, Flask and Elixir; frontend and wiki editor made with CoffeeScript, HTML5 ContentEditable, jQuery and rangy.",
+            "<u>http://piki.heroku.com</u>, <u>http://skofo.github.io/blog/piki-retrospective</u>"
           ]
         }
       ]
@@ -39,7 +59,7 @@
         {
           "name": "Software development",
           "details": [
-            "Value pragmatic approach to problems, solid and extensible architecture, behavior/test-driven development, security by design, DRY clean code, KISS, convention over configuration, agile software development, decentralized version control (Git, Mercurial) and open source software stacks.",
+            "Value pragmatic approach to problems, behavior-driven development, security by design, simple and flexible code, convention over configuration, decentralized version control and open source software stacks.",
             "Proficient with JavaScript, CoffeeScript, Ruby, Python, the UNIX shell and Vim.",
             "10 years of hobbyist experience before starting professional career."
           ]
@@ -47,7 +67,7 @@
           "name": "Back-end web development",
           "details": [
             "Ruby (Ruby on Rails, Sinatra, Rspec, MiniTest, Test::Unit, Capybara, Shoulda, Guard, Spork, Factory Girl, RubyGems, RVM)",
-            "JavaScript (Meteor, Node.js, CoffeeScript, Jasmine, QUnit, npm)",
+            "JavaScript (CoffeeScript, Jasmine, QUnit, Meteor, Node.js, npm)",
             "Python (Flask, SQLAlchemy, Elixir, unittest, pip, virtualenv)",
             "Heroku, SQL, FTP, OAuth, RESTful JSON/XML API design"
           ]
@@ -57,11 +77,10 @@
             "HTML5 (semantic web, audio, video, contenteditable, canvas, WebSocket, web storage, geolocation, native drag and drop, file API) and Strict XHTML",
             "CSS3 (responsive design, Twitter Bootstrap, Sass, LESS)",
             "JavaScript (<em>The Good Parts</em>, progressive enhancement, AJAX, asm.js, CoffeeScript, jQuery, Ember.js, AngularJS, Handlebars, Modernizr, Underscore.js, Paper.js, Jasmine, QUnit)",
-            "Some experience with fundamental visual design principles, user experience design, and typography; perfectionist attention to detail."
+            "Some experience with visual design principles, user experience design, and typography."
           ]
         }
       ]
     }
   ]
 }
-
